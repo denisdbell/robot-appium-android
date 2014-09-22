@@ -45,6 +45,7 @@ Running the robot test:
    ``` 
  2. Start the adroid virtual device.
  3. Ensure that appium is started by the following command:
+
    ```sh
     appium  
    ``` 
