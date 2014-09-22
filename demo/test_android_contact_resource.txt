@@ -1,0 +1,15 @@
+*** Settings ***
+Library           AppiumLibrary
+
+*** Variables ***
+${REMOTE_URL}     http://localhost:4723/wd/hub
+${PLATFORM_NAME}    Android
+${PLATFORM_VERSION}    4.2.2
+${DEVICE_NAME}    Android Emulator
+${APP}            /Users/ahall/robotframework-appiumlibrary/demo/demoapp/Android.apk
+
+*** Keywords ***
+press the button
+    Open Application    ${REMOTE_URL}    ${PLATFORM_NAME}    ${PLATFORM_VERSION}    ${DEVICE_NAME}    ${APP}
+    Click Button    Click Me
+    Close Application
