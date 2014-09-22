@@ -36,7 +36,7 @@ PATH=$PATH:$ANDROID_HOME/build-tools
 PATH=$PATH:$ANDROID_HOME/platform-tools
 PATH=$PATH:$ANDROID_HOME/tools   
 ``` 
- Running the robot test:
+Running the robot test:
 ====
  1. Create a android virtual device using android virual device manager (avd). Launch avd by typing the following commands:
     
@@ -48,6 +48,6 @@ PATH=$PATH:$ANDROID_HOME/tools
 ```sh
  appium  
 ``` 
-4. clone this repository
-5. open the ***robot-appium-library*** directory with RIDE.
-6. Execute the test case.
+ 4. clone this repository
+ 5. open the ***robot-appium-library*** directory with RIDE.
+ 6. Execute the test case.
