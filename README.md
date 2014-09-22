@@ -1,10 +1,12 @@
 RobotFrameWork Appium Library
 =========
 
-This tutorial demonstrates how to execute functional tests on an android device using robot framework and appium.
+This robot test demonstrates how to execute functional tests on an android device using appium.
 
 Prerequisites
 =========
+
+***Operating Systen:*** Mac/OSX or Linux
 
 Ensure that the following are installed before proceeding:
 
