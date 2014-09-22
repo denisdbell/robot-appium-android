@@ -53,4 +53,6 @@ Running the robot test:
    ``` 
  4. clone this repository.
  5. open the ***robot-appium-library*** directory with RIDE.
- 6. Execute the test case.
+ 6. Ensure that the ***${APPIUM_SEVER_URL}*** matches the currently running appium server.
+ 7. Ensure that the ***${APP}*** has the absolute file location to the Android.apk.
+ 8. Now execute the test.
