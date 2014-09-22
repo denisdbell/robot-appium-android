@@ -40,7 +40,7 @@ PATH=$PATH:$ANDROID_HOME/tools
 ``` 
 Running the robot test:
 =========
- 1. Create a android virtual device using android virual device manager (avd). Launch avd by typing the following commands:
+ 1. Create a android virtual device with a android version of 4.2.2 using android virual device manager (avd). Launch avd by typing the following commands:
     
    ```sh
     android avd
