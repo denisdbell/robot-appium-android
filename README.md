@@ -6,7 +6,7 @@ This robot test demonstrates how to execute functional tests on an android devic
 Prerequisites
 =========
 
-***Operating Systen:*** Mac/OSX or Linux
+***Operating System:*** Mac/OSX or Linux
 
 Ensure that the following are installed before proceeding:
 
