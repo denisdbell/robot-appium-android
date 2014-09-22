@@ -27,7 +27,7 @@ npm install -g appium
 npm install wd         
 ```  
 
- - Download Android SDK and add it to the system PATH
+  - Download Android SDK and add it to the system PATH
    
  ```sh
   export ANDROID_HOME=$HOME/Downloads/android-sdk-macosx
